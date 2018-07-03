@@ -1,6 +1,10 @@
 #bestmodel file
 *.h5
 
+# Data
+Data
+Data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
