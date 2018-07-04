@@ -1,11 +1,11 @@
-# Best model file
+#bestmodel file
 *.h5
 
-# Data file
-Data/*
+# Data
 Data
+Data/*
 data
-data/*s
+data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
